@@ -1,5 +1,5 @@
 # test-repo
-test repo
+test repo test test
 
 ## Lista krokow
 1. Pobierz repo 
