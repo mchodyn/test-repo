@@ -19,11 +19,12 @@ test repo test test
 12. Stworz nowy branch o nazwie 'branch-2'
 13. Przejdz na brancha o nazwie 'branch-2'
 14. Zedytuj linie 5. wpisujac tam jako imie Jan a jako nazwisko Kowalski
-15. Dodaj zmienione pliki
-16. Stowrz commita
-17. Wypushuj commita
-18. Stworz nowego pull requesta z branch-2 do mastera/maina
-19. Przejdz do 2. pull requesta. Dodaj go
-20. Przejdz do 1. pull requesta. Nie mozesz go dodac
-21. Rozwiaz konflikty w pull requescie z 'branch-1'
-22. Zmerguj pozostały pull request
+15. Dodaj nowy plik o rozszerzeniu .js, dodaj nowy plik o rozszerzeniu .ts, dodaj nowy plik .html . Pliki moga byc puste
+16. Dodaj zmienione pliki
+17. Stowrz commita
+18. Wypushuj commita
+19. Stworz nowego pull requesta z branch-2 do mastera/maina
+20. Przejdz do 2. pull requesta. Dodaj go
+21. Przejdz do 1. pull requesta. Nie mozesz go dodac
+22. Rozwiaz konflikty w pull requescie z 'branch-1'
+23. Zmerguj pozostały pull request
