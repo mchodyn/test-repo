@@ -1,8 +1,11 @@
 # test-repo
+
 test repo test test
 
 ## Lista krokow
-1. Pobierz repo 
+
+0. Wejdz na poczte wp i zaakceptuj zaproszenie do tego repo
+1. Pobierz repo
 2. Otworz repo w VS code
 3. Stworz brancha o nazwie 'branch-1'
 4. Przejdz do brancha o nazwie 'branch-1'
