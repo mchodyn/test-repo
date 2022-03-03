@@ -9,7 +9,7 @@ test repo test test
 2. Otworz repo w VS code
 3. Stworz brancha o nazwie 'branch-1'
 4. Przejdz do brancha o nazwie 'branch-1'
-5. Zedytuj tę linię wstaw tutaj swoje <Kinga> <Zyborowicz>
+5. Zedytuj tę linię wstaw tutaj swoje <Jan> <Kowalski>
 6. Dodaj zmienione pliki
 7. Stworz commita
 8. Wypushuj commita
